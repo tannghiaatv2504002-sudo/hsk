@@ -1,7 +1,7 @@
 {
-  "name": "HSK Go · HSK 3.0",
+  "name": "HSK Go V4.0 · HSK 3.0",
   "short_name": "HSK Go",
-  "description": "Ứng dụng học HSK 1–3 với 2.245 từ, SRS, thi mô phỏng và luyện nghe.",
+  "description": "Ứng dụng học HSK 1–3 với 2.245 từ, SRS, huấn luyện thích ứng, thi mô phỏng, phân tích tiến bộ và cloud sync tùy chọn.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
